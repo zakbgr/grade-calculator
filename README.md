@@ -22,3 +22,4 @@ git clone https://github.com/STUDENT-A-USERNAME/grade-calculator.git
 
 cd grade-calculator
 
+# protection test
